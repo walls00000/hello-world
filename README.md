@@ -1,1 +1,1 @@
-# hello-world
+# hello-world repo containing some handy scripts
