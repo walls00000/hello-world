@@ -30,14 +30,14 @@ black() {
   echo "[030m$@[0m"
 }
 
-red red
-green green
-yellow yellow
-blue blue
-purple purple
-cyan cyan
-white white
-black black
+#red red
+#green green
+#yellow yellow
+#blue blue
+#purple purple
+#cyan cyan
+#white white
+#black black
 
 
 
